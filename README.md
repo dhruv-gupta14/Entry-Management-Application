@@ -113,18 +113,33 @@ node app.js
 **Check-In Process**
 * The moment you enter the landing page url into your browser a check-in form appears on your screen. Visitor needs to fill all the details in order to check-in. If user submit anything in inappropriate format or keeps ant field empty then he/she will see an alert on the check in page telling him about what went wrong. If all the details are submitted correctly visitor is able to successfully check-in. A unique check-in ID will be generated and displayed on screen and also will be sent to visitor on email and sms for the check-out purpose. Host will receive details of the visitor on his email and sms.
 ![Check-In Page](images/2.png "Check-In Page")
+> Check-In Page View
+
 ![Check-In ID](images/3.png "Check-In Id")
+
 ![Check-In ID email received by visitor](images/9.png "Check-In Id")
+> Check-In ID email received by visitor
+
 ![Check-In details email received by host ](images/11.png "Check-In details")
+> Check-In details email received by host 
+
 ![Check-In details sms received by host ](images/12.png "Check-In details")
+> Check-In details sms received by host
 
 **Check-Out Process**
 * Click the check-out button in top right corner to navigate to check-out page. There a check-out form appears that requires visitor to enter their unique check-in ID generated a time of check-in(also sent through email and sms). If the check-in ID entered by user is correct it will ask him if he is sure to check-out and if user clicks yes, he is successfully checked-out. But if there is any error in check-in ID then that error would be displayed to user. The check-out details are sent to the visitor through email and sms,
 ![Check-Out Page](images/4.png "Check-Out Page")
+> Check-Out Page View
+
 ![Check-Out](images/5.png "Check-Out")
+
 ![Checked Out](images/6.png "Checked Out")
+
 ![Check-Out details sent to visitor ](images/10.png "Check-Out details")
+> Check-Out details sent to visitor
+
 ![Check-out details sms received by visitor ](images/15.png "Check-Out details")
+> Check-out details sms received by visitor 
 
 **Some Corner Cases**
 * If visitor tries to check-in with same email-id and phone no. with which he has checked-in before but hasn't checked-out by then then it will throw error to the user.
