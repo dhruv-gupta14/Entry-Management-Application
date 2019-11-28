@@ -134,9 +134,14 @@ node app.js
  ![Corner Case](images/8.png "corner_case2")
 
 ## Database Schema
-* ``Schema model``
+ Schema model
+
 ![Schema](images/13.png "Schema")
 
-* ``Entry in Database``
+ Entry in Database
+ 
 ![Entry](images/14.png "Entry")
 
+## Folder Structure
+
+![Folder Structure](images/16.png "Folder Structure")
