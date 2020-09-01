@@ -3,7 +3,6 @@
 
 The project aims at creating a software that allows visitor to check-in and check-out during their visit to a company.
 This project has two main folders namely reactnode and entry-level-api. reactnode contains the frontend part and entry-level-api contains the backend part.
-The app has been deployed on Heroku and can be accessed [here][https://entry-level.herokuapp.com/check-in](https://entry-level.herokuapp.com/check-in). 
 
 ## Pre-Requisites
 * NodeJs should be installed on your system
@@ -35,8 +34,6 @@ The app has been deployed on Heroku and can be accessed [here][https://entry-lev
  * Fast2SMS(Rs 50 free SMS) - for sending SMS
  * NodeMailer - for sending emails
 
-## Deployment
-The app has been deployed on Heroku and can be accessed [here][https://entry-level.herokuapp.com/check-in](https://entry-level.herokuapp.com/check-in).
 
 ## Installing Dependencies
 To run the app locally follow the below steps : 
