@@ -26,7 +26,7 @@
     "nodetools": "^1.1.5",
     "request": "^2.88.0",
     "unirest": "^0.6.0",
-    "validator": "^10.9.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {}
 }
